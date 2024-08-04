@@ -9,11 +9,18 @@ package Utils;
  *
  * @author thain
  */
+// public static final String GOOGLE_OAUTH_CLIENT_ID = "your-client-id";
+// public static final String GOOGLE_OAUTH_CLIENT_SECRET = "your-client-secret";
+
+// public static String GOOGLE_CLIENT_ID = "107009318948-7kvllbf8vujnkml8ei8ibkg03f0jq7su.apps.googleusercontent.com";
+
+//     public static String GOOGLE_CLIENT_SECRET = "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";
 public class Constants {
 
-    public static String GOOGLE_CLIENT_ID = "107009318948-7kvllbf8vujnkml8ei8ibkg03f0jq7su.apps.googleusercontent.com";
+    public static String GOOGLE_CLIENT_ID = "your-client-id";
 
-    public static String GOOGLE_CLIENT_SECRET = "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";
+    public static String GOOGLE_CLIENT_SECRET = "your-client-secret";
+    
 
     public static String GOOGLE_REDIRECT_URI = "http://localhost:8080/ITJob/LoginGoogleHandler";
 
